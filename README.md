@@ -8,6 +8,13 @@ and find it's way back home. The agent has two sensors: 1. bumping sensor 2. Dir
 The task is to implement the logic to solve this problem by only being able to read in the
 result from those two sensors.
 
+## Image
+
+### Simulator
+Blue boxes represent dirt and the circle represents the cleaning agent
+
+![](images/simulator.png)
+
 ## Downloading and starting simulation
 
 ### Requirements
